@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Digitec
-- 👀 I’m interested in finding job.
-- 🌱 I’m currently learning DevOps.
+- 🌱 I’m currently working as a DevOps.
 - 💞️ I’m looking to collaborate on finding suitable project.
 - 📫 How to reach me 7digitec@gmail.com
 
